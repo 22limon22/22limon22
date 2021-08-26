@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @22limon22
-- 👀 I’m interested in hack wifi 
-- 🌱 I’m currently learning in schools 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Привет, я @ 22limon22
+👀 Меня интересует взломать вайфай
+🌱 Я сейчас учусь в школe
+💞️ Я хочу сотрудничать над термукс 
+📫 Как до меня добраться до туда
+🗣️ Я мало знаю английский 
 
 <!---
 22limon22/22limon22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
